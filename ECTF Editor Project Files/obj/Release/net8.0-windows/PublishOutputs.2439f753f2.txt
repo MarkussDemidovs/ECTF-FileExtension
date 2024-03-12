@@ -1,0 +1,5 @@
+C:\Users\Mark\Desktop\Programming\Expots\ECTF Editor.exe
+C:\Users\Mark\Desktop\Programming\Expots\ECTF Editor.dll
+C:\Users\Mark\Desktop\Programming\Expots\ECTF Editor.deps.json
+C:\Users\Mark\Desktop\Programming\Expots\ECTF Editor.runtimeconfig.json
+C:\Users\Mark\Desktop\Programming\Expots\ECTF Editor.pdb
