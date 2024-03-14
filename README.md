@@ -6,3 +6,6 @@ E - Editable C - Compressed T - Text F - Format
 
 ## What is the ECTF file editor?
 ECTF Editor is an editor which allows you to edit ECTF files! This is a development release, so you can store normal text in ECTF, but later on youll only be able to add text to ECTF and only save it in encryption.
+
+## WARNING
+This is still in development. So .ECTF basically acts like .txt, but later on only ECTF editor will be able to understand .ectf files.
