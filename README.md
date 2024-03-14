@@ -1,3 +1,6 @@
+# DOWNLOAD HERE!
+> https://github.com/MarkussDemidovs/ECTF-FileExtension/releases/tag/ectf
+
 # What is ECTF?
 ECTF is a file extension which secures and compresses your text files.
 
