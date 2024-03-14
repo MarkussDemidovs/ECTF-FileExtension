@@ -1,5 +1,5 @@
 # DOWNLOAD HERE!
-> https://github.com/MarkussDemidovs/ECTF-FileExtension/releases/tag/ectf
+> h[ttps://github.com/MarkussDemidovs/ECTF-FileExtension/releases/tag/ectf](https://github.com/MarkussDemidovs/ECTF-FileExtension/releases/tag/ECTFEDITOR)
 
 # What is ECTF?
 ECTF is a file extension which secures and compresses your text files.
